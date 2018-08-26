@@ -1,0 +1,5 @@
+id,comment_text,toxic,severe_toxic,obscene,threat,insult,identity_hate
+1,I will rob ur handbag,0,0,0,1,0,0
+2,"D'aww! He matches this background colour I'm seemingly stuck with. Thanks.  (talk) 21:51, January 11, 2016 (UTC)",0,0,0,0,0,0
+3,****** go,1,1,1,0,0,0
+4,hell,0,0,0,0,1,1
